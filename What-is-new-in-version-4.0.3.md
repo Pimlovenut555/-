@@ -24,4 +24,6 @@ Notably, we have not reduced the minimum length from 12. It is likely that in fu
 
 Some headers included the word "Requirements", some did not. We have tried to remove that as standard and fix some other wording issues along the way.
 
+### Full differences report
 
+For a full differnces report between 4.0.2 and 4.0.3, see [this pull request](https://github.com/OWASP/ASVS/pull/1104/files?file-filters%5B%5D=.md&file-filters%5B%5D=.py&file-filters%5B%5D=.sh&file-filters%5B%5D=.yml&file-filters%5B%5D=No+extension).
