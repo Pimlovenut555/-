@@ -10,6 +10,14 @@ However, some requirements may have been slightly weakened where we felt appropr
 
 This document notes some key changes.
 
+### New signficant contributors
+
+We have recognised some new significant contributors in the updated document.
+
+First of all, we have included Elar Lang's new position as a leader of the project. Elar has spent many hours tirelessly working through issues, wording and generally trying to make the standard better. His promotion to leader is well deserved. 
+
+We are also pleased to recognize Ralph Andalis and Sjoerd Langkemper as Major Contributors for their significant inputs over the last year or so.
+
 ### Deleting redundant/non-actionable requirements
 
 There were a number of requirements which were almost direct duplicates of other pre-existing requirements. We have tried to remove some of these to make it easier to consume the standard. Similarly, certain requirements appeared to not be practically actionable. We have removed some of these as well. Wherever we have removed requirements, we have deliberately left the numbering as it was and added a note in the text of the requirement starting with "```[DELETED...]```".
