@@ -1,5 +1,3 @@
-# DRAFT UNFINISHED PAGE 
-
 ## Version 4.0.3 released
 
 We are pleased to announce that the version 4.0.3 of the ASVS has now been released! Thanks to the project leaders and other contributors for their support in getting this out.
