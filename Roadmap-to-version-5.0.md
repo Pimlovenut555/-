@@ -2,6 +2,8 @@
 
 This document states the leadership team's objectives for ASVS 5.0.
 
+Note the [Planned Timescales](https://github.com/OWASP/ASVS/wiki/Roadmap-to-version-5.0#planned-timescales) below.
+
 We want to publish this publicly so that our direction is clear. All changes/issues to be handled for 5.0 should be mapped to one of these objectives.
 
 Our driving philosophy for 5.0 is to increase usability and lower the barrier to entry.
