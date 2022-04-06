@@ -1,11 +1,13 @@
 # Building ASVS under Debian Linux
 
-## Install pandoc
+## Install dependencies
 
-```sudo apt install pandoc```
+```./install_deps.sh```
 
 ## Generate the document:
 
-```./generate_document.sh```
+```./generate-all.sh```
 
-This produces a .docx file, which can be edited by Microsoft Word, LibreOffice, and Google Docs. 
+Can optionally pass a language code such as 
+
+```./generate-all.sh es```
