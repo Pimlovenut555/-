@@ -20,7 +20,7 @@ The following sections will highlight our key objectives together with basic act
 
 ### Clearer levels 
 
-* Make level rationale clearer (maybe use AAL as inspiration)
+* Make level rationale clearer (maybe use AAL as inspiration) and focus this on risk rather than testability.
 * Move level 1 items into level 2 to make a lower barrier to entry.
 * Be clear that level 1 does not prove compliance, only level 2 and 3.
 * Have an export option and an export artefact for “ASVS lite”
